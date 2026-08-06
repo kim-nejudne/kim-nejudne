@@ -1,23 +1,27 @@
-🚀 Full-Stack JavaScript Developer 🧑🏻‍💻️ | 7+ Years Experience ✨
+## Kim Nejudne — Design Engineer
 
-Hey there! 👋 I'm a passionate Full-Stack JavaScript Developer with over seven years of adventure 🗺️ in building dynamic and efficient web solutions.
+Full-stack engineer with a designer's eye. Nine years of production JavaScript, a
+background in desktop publishing and magazine design, and motion that ships at
+60fps.
 
-I love diving deep into the JavaScript universe 🌌, especially with:
-* ⚛️ React
-* 🔷 TypeScript
-* 🟩 Node.js
-* ⏩ Next.js
+**[kimnejudne.dev](https://kimnejudne.dev)** — five standalone products, each with
+its own art direction, and a written case study for every one.
 
-From architecting scalable backends 🏗️ to crafting intuitive user interfaces 🎨, I enjoy the full spectrum of development. My journey has taken me through various environments, from nimble startups 💡 where I've worn many hats 🤠, to large enterprises 🏢 with established workflows.
+| | | |
+|---|---|---|
+| **[Forme](https://github.com/kim-nejudne/forme)** | A trade printer's production system. The preflight engine measures your PDF with poppler and ghostscript rather than asserting it passed. | Next.js · NestJS · Postgres |
+| **[Suki](https://github.com/kim-nejudne/suki)** | An offline-first ledger for a Philippine sari-sari store. Hand-rolled sync over IndexedDB — no CRDTs, no sync service. | React · NestJS · Dexie |
+| **[PokéTrack](https://github.com/kim-nejudne/poketrack)** | Project tracking that levels up. A partner's whole state is derived from the XP ledger, so un-doing the work de-evolves it for free. | FastAPI · MongoDB · React |
+| **[Tallow](https://github.com/kim-nejudne/tallow)** | A dry-aged steakhouse: reservations booked against real cover capacity, and an 86 board wired to the public menu. | React · Express · Postgres |
+| **[Plinth](https://github.com/kim-nejudne/plinth)** | Sixteen weeks of periodised strength training, told entirely in type. Zero photography by design. | React · GSAP |
+| **[Hub](https://github.com/kim-nejudne/hub)** | The homepage itself — a pen-and-ink portrait that hinges open and the work flies out of it. | React · GSAP |
 
-I'm always eager to learn 🧠, adapt 🦎, and contribute to impactful projects 🌟. Let's build something awesome together! 🤝
+All six are self-hosted on a single droplet behind nginx. No PaaS, no serverless,
+no platform primitives — a persistent disk and a long-lived process.
 
-* **My Tech Backpack 🎒:** React, TypeScript, Node.js, Next.js, Docker, Prisma, Tailwind
-* **Currently Exploring 🧭:** GraphQL, SocketIO
-* **Let's Connect 🔗:** [LinkedIn Profile](https://www.linkedin.com/in/kim-nejudne-44a969140/)
+Each product began as an AI-generated scaffold and was then taken apart: real
+authentication, a real data layer, accessibility rebuilt, motion given a reason,
+performance measured against a budget. The case studies are about that distance
+and they state the origin plainly, because the gap-closing is the evidence.
 
-
-<!---
-workaugustnejudne/workaugustnejudne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/kim-nejudne-44a969140/) · august.nejudne@gmail.com
