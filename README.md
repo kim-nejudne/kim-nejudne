@@ -29,4 +29,4 @@ authentication, a real data layer, accessibility rebuilt, motion given a reason,
 performance measured against a budget. The case studies are about that distance
 and they state the origin plainly, because the gap-closing is the evidence.
 
-[CV (PDF)](https://kimnejudne.dev/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/kim-nejudne-44a969140/) · work.august.nejudne@gmail.com
+[CV (PDF)](https://kimnejudne.dev/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/kim-nejudne/) · work.august.nejudne@gmail.com
