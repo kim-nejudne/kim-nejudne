@@ -1,8 +1,9 @@
 ## Kim Nejudne · Senior Full-Stack Engineer
 
-Senior full-stack engineer with a designer's eye. Nine years of production
-JavaScript, a background in desktop publishing and magazine design, and motion
-that ships at 60fps.
+Senior full-stack engineer who ships whole products. Nine years of production
+JavaScript: TypeScript, React, Next.js, NestJS, Postgres, Python.
+
+**Open to senior full-stack roles. Remote, UTC+8.**
 
 **[kimnejudne.dev](https://kimnejudne.dev)** is the portfolio: five standalone
 products, each with its own art direction, and a written case study for every one.
@@ -28,5 +29,9 @@ Each product began as an AI-generated scaffold and was then taken apart: real
 authentication, a real data layer, accessibility rebuilt, motion given a reason,
 performance measured against a budget. The case studies are about that distance
 and they state the origin plainly, because the gap-closing is the evidence.
+
+The eye behind the six art directions is an editorial one, out of magazine and
+desktop-publishing work that predates the nine years of JavaScript, and the
+motion holds 60fps everywhere it appears.
 
 [CV (PDF)](https://kimnejudne.dev/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/kim-nejudne/) · work.august.nejudne@gmail.com
