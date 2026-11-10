@@ -10,11 +10,11 @@ products, each with its own art direction, and a written case study for every on
 
 | | | |
 |---|---|---|
-| **[PokéTrack](https://poketrack.kimnejudne.dev/)** | Project tracking that levels up. A partner's whole state is derived from the XP ledger, so un-doing the work de-evolves it for free. [Case study](https://kimnejudne.dev/work/poketrack/) | React · FastAPI · MongoDB |
-| **[ts-dojo](https://dojo.kimnejudne.dev/)** | A TypeScript course the compiler grades, with the real compiler running in the page in a Web Worker. Offline, no backend. [Case study](https://kimnejudne.dev/work/ts-dojo/) | React · TypeScript 6 · CodeMirror |
-| **[Buzzr](https://buzzr.kimnejudne.dev/)** | A game-show buzzer. The TV shows the questions, players buzz from their phones, and one server decides who was first, corrected for each phone's latency. [Case study](https://kimnejudne.dev/work/buzzer/) | React · Express · Socket.IO |
-| **[Sketchy](https://sketchy.kimnejudne.dev/)** | A party drawing game. The drawer draws on their phone, the strokes stream live to the TV, everyone else guesses on theirs, and the server keeps the clock. [Case study](https://kimnejudne.dev/work/sketchy/) | React · Express · Socket.IO |
-| **[Hub](https://kimnejudne.dev/)** | The homepage itself: a pen-and-ink portrait that hinges open and the work flies out of it. | React · GSAP |
+| **[PokéTrack](https://poketrack.kimnejudne.dev/)** | Project tracking that levels up. A partner's whole state is derived from the XP ledger, so un-doing the work de-evolves it for free. [Case study](https://kimnejudne.dev/work/poketrack/) · [Code](https://github.com/kim-nejudne/portfolio/tree/main/poketrack) | React · FastAPI · MongoDB |
+| **[ts-dojo](https://dojo.kimnejudne.dev/)** | A TypeScript course the compiler grades, with the real compiler running in the page in a Web Worker. Offline, no backend. [Case study](https://kimnejudne.dev/work/ts-dojo/) · [Code](https://github.com/kim-nejudne/portfolio/tree/main/ts-dojo) | React · TypeScript 6 · CodeMirror |
+| **[Buzzr](https://buzzr.kimnejudne.dev/)** | A game-show buzzer. The TV shows the questions, players buzz from their phones, and one server decides who was first, corrected for each phone's latency. [Case study](https://kimnejudne.dev/work/buzzer/) · [Code](https://github.com/kim-nejudne/portfolio/tree/main/buzzer) | React · Express · Socket.IO |
+| **[Sketchy](https://sketchy.kimnejudne.dev/)** | A party drawing game. The drawer draws on their phone, the strokes stream live to the TV, everyone else guesses on theirs, and the server keeps the clock. [Case study](https://kimnejudne.dev/work/sketchy/) · [Code](https://github.com/kim-nejudne/portfolio/tree/main/sketchy) | React · Express · Socket.IO |
+| **[Hub](https://kimnejudne.dev/)** | The homepage itself: a pen-and-ink portrait that hinges open and the work flies out of it. [Code](https://github.com/kim-nejudne/portfolio/tree/main/hub) | React · GSAP |
 
 Every link above is live. The source for all five is one repository,
 **[kim-nejudne/portfolio](https://github.com/kim-nejudne/portfolio)**, a directory
